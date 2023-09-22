@@ -1,0 +1,1329 @@
+﻿Log file open, 06/25/22 15:41:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=15108)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Arcanoid
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20280985"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.2-20280985+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" H:\Learning\Tests\Arcanoid\Arcanoid.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.739] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 1600 Six-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="38a104ca497b5cf4bded0d8cacf4a7b5"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.681834
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-E795708A471654069F4CE1805C4CCC6F
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin StaticMeshEditorModeling
+LogPluginManager: Mounting Engine plugin UVEditor
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/StaticMeshEditorModeling/Content/' mounted to '/StaticMeshEditorModeling/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/UVEditor/Content/' mounted to '/UVEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20280985
+LogInit: Engine Version: 5.0.2-20280985+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.739] (), CPU: AMD Ryzen 5 1600 Six-Core Processor            , GPU: AMD Radeon RX 5700 XT
+LogInit: Compiled (64-bit): May 20 2022 15:42:17
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.06.25-05.41.42:340][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.06.25-05.41.42:340][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.06.25-05.41.42:340][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.06.25-05.41.42:340][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.06.25-05.41.42:340][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.06.25-05.41.42:340][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.06.25-05.41.42:340][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.06.25-05.41.42:340][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.06.25-05.41.42:340][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.06.25-05.41.42:340][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.06.25-05.41.42:340][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.06.25-05.41.42:341][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.06.25-05.41.42:341][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.06.25-05.41.42:344][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.06.25-05.41.42:344][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.06.25-05.41.42:344][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.06.25-05.41.42:344][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.06.25-05.41.42:344][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.06.25-05.41.42:344][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.06.25-05.41.42:344][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.06.25-05.41.42:344][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.06.25-05.41.42:344][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.06.25-05.41.42:345][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.06.25-05.41.42:345][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.06.25-05.41.42:368][  0]LogD3D12RHI: Aftermath initialized
+[2022.06.25-05.41.42:368][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.06.25-05.41.42:495][  0]LogD3D12RHI: Found D3D12 adapter 0: AMD Radeon RX 5700 XT (Max supported Feature Level 12_1, shader model 6.6)
+[2022.06.25-05.41.42:495][  0]LogD3D12RHI: Adapter has 8151MB of dedicated video memory, 0MB of dedicated system memory, and 16352MB of shared system memory, 1 output[s]
+[2022.06.25-05.41.42:508][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.06.25-05.41.42:508][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16352MB of shared system memory, 0 output[s]
+[2022.06.25-05.41.42:508][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.06.25-05.41.42:508][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.06.25-05.41.42:508][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.06.25-05.41.42:509][  0]LogHAL: Display: Platform has ~ 32 GB [34293407744 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.25-05.41.42:509][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.06.25-05.41.42:509][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.06.25-05.41.42:509][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.25-05.41.42:509][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.06.25-05.41.42:509][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [H:/Learning/Tests/Arcanoid/Saved/Config/WindowsEditor/Editor.ini]
+[2022.06.25-05.41.42:509][  0]LogInit: Computer: SENIORPC
+[2022.06.25-05.41.42:509][  0]LogInit: User: sergio
+[2022.06.25-05.41.42:509][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.06.25-05.41.42:509][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.25-05.41.42:509][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.06.25-05.41.42:509][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.06.25-05.41.42:509][  0]LogMemory: Process Physical Memory: 266.60 MB used, 301.69 MB peak
+[2022.06.25-05.41.42:509][  0]LogMemory: Process Virtual Memory: 230.62 MB used, 231.47 MB peak
+[2022.06.25-05.41.42:509][  0]LogMemory: Physical Memory: 14431.89 MB used,  18272.85 MB free, 32704.74 MB total
+[2022.06.25-05.41.42:509][  0]LogMemory: Virtual Memory: 25002.37 MB used,  17430.38 MB free, 42432.74 MB total
+[2022.06.25-05.41.42:509][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.06.25-05.41.42:518][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.25-05.41.42:543][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.06.25-05.41.42:545][  0]LogInit: Using OS detected language (ru-RU).
+[2022.06.25-05.41.42:545][  0]LogInit: Using OS detected locale (ru-RU).
+[2022.06.25-05.41.42:553][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so 'ru' will be used for the language.
+[2022.06.25-05.41.42:553][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2022.06.25-05.41.42:553][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2022.06.25-05.41.42:554][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2022.06.25-05.41.42:554][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2022.06.25-05.41.42:554][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2022.06.25-05.41.42:554][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2022.06.25-05.41.42:554][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2022.06.25-05.41.42:555][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.25-05.41.42:570][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.06.25-05.41.42:570][  0]LogWindowsTextInputMethodSystem:   - Русский (Россия) - (Keyboard).
+[2022.06.25-05.41.42:571][  0]LogWindowsTextInputMethodSystem:   - Английский (США) - (Keyboard).
+[2022.06.25-05.41.42:571][  0]LogWindowsTextInputMethodSystem:   - Русский (Россия) - Сенсорный ввод — исправление (TSF IME).
+[2022.06.25-05.41.42:571][  0]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2022.06.25-05.41.42:592][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.25-05.41.42:592][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.25-05.41.42:813][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.06.25-05.41.42:813][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.06.25-05.41.42:905][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.06.25-05.41.42:905][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.06.25-05.41.42:905][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.06.25-05.41.42:905][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.06.25-05.41.42:905][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.06.25-05.41.42:905][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.06.25-05.41.42:905][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.06.25-05.41.42:905][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.06.25-05.41.42:905][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.06.25-05.41.42:905][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.06.25-05.41.42:905][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.06.25-05.41.42:952][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.06.25-05.41.42:953][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.06.25-05.41.42:980][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.06.25-05.41.42:997][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.06.25-05.41.42:997][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.06.25-05.41.43:043][  0]LogD3D12RHI:     GPU DeviceId: 0x731f (for the marketing name, search the web for "GPU Device Id")
+[2022.06.25-05.41.43:043][  0]LogWindows: Attached monitors:
+[2022.06.25-05.41.43:043][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1032), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.06.25-05.41.43:043][  0]LogWindows: Found 1 attached monitors.
+[2022.06.25-05.41.43:043][  0]LogWindows: EnumDisplayDevices:
+[2022.06.25-05.41.43:044][  0]LogWindows:    0. 'AMD Radeon RX 5700 XT' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.06.25-05.41.43:044][  0]LogWindows:    1. 'AMD Radeon RX 5700 XT' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.06.25-05.41.43:045][  0]LogWindows:    2. 'AMD Radeon RX 5700 XT' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.06.25-05.41.43:046][  0]LogWindows:    3. 'AMD Radeon RX 5700 XT' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.06.25-05.41.43:046][  0]LogWindows:    4. 'AMD Radeon RX 5700 XT' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.06.25-05.41.43:047][  0]LogWindows:    5. 'AMD Radeon RX 5700 XT' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.06.25-05.41.43:047][  0]LogWindows:    6. 'AMD Radeon RX 5700 XT' (P:0 D:0), name: '\\.\DISPLAY7'
+[2022.06.25-05.41.43:048][  0]LogWindows: DebugString: FoundDriverCount:7 
+[2022.06.25-05.41.43:048][  0]LogD3D12RHI:     Adapter Name: AMD Radeon RX 5700 XT
+[2022.06.25-05.41.43:048][  0]LogD3D12RHI:   Driver Version: AMD Software: Adrenalin Edition 22.5.1 (internal:30.0.15021.11005, unified:30.0.15021.11005)
+[2022.06.25-05.41.43:048][  0]LogD3D12RHI:      Driver Date: 4-28-2022
+[2022.06.25-05.41.43:048][  0]LogRHI: Texture pool is 4651 MB (70% of 6645 MB)
+[2022.06.25-05.41.43:048][  0]LogD3D12RHI: Async texture creation enabled
+[2022.06.25-05.41.43:048][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.06.25-05.41.43:077][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="H:/Learning/Tests/Arcanoid/Arcanoid.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="H:/Learning/Tests/Arcanoid/Intermediate/TurnkeyReport_0.log" -log="H:/Learning/Tests/Arcanoid/Intermediate/TurnkeyLog_0.log" -project="H:/Learning/Tests/Arcanoid/Arcanoid.uproject"  -platform=all'
+[2022.06.25-05.41.43:078][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="H:/Learning/Tests/Arcanoid/Arcanoid.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="H:/Learning/Tests/Arcanoid/Intermediate/TurnkeyReport_0.log" -log="H:/Learning/Tests/Arcanoid/Intermediate/TurnkeyLog_0.log" -project="H:/Learning/Tests/Arcanoid/Arcanoid.uproject"  -platform=all" ]
+[2022.06.25-05.41.43:160][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.06.25-05.41.43:173][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.06.25-05.41.43:173][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.06.25-05.41.43:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.25-05.41.43:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.25-05.41.43:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.25-05.41.43:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.25-05.41.43:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.25-05.41.43:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.25-05.41.43:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.25-05.41.43:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.25-05.41.43:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.25-05.41.43:185][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.25-05.41.43:215][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.06.25-05.41.43:215][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.06.25-05.41.43:222][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.25-05.41.43:222][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.25-05.41.43:228][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.25-05.41.43:228][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.06.25-05.41.43:228][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.25-05.41.43:228][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.25-05.41.43:234][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.06.25-05.41.43:234][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.06.25-05.41.43:234][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.06.25-05.41.43:240][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.25-05.41.43:240][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.25-05.41.43:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.25-05.41.43:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.06.25-05.41.43:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.25-05.41.43:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.25-05.41.43:251][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.06.25-05.41.43:265][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.25-05.41.43:270][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.06.25-05.41.43:270][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.06.25-05.41.43:270][  0]LogTargetPlatformManager:   ADPCM
+[2022.06.25-05.41.43:270][  0]LogTargetPlatformManager:   PCM
+[2022.06.25-05.41.43:275][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.06.25-05.41.43:275][  0]LogTargetPlatformManager:   BINKA
+[2022.06.25-05.41.43:275][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.06.25-05.41.43:275][  0]LogTargetPlatformManager:   OGG
+[2022.06.25-05.41.43:275][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.06.25-05.41.43:275][  0]LogTargetPlatformManager:   OPUS
+[2022.06.25-05.41.43:335][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.06.25-05.41.43:335][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.06.25-05.41.43:345][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.06.25-05.41.43:345][  0]LogTargetPlatformManager:   SF_METAL
+[2022.06.25-05.41.43:345][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.06.25-05.41.43:345][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.06.25-05.41.43:345][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.06.25-05.41.43:345][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.06.25-05.41.43:345][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.06.25-05.41.43:345][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.06.25-05.41.43:345][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.06.25-05.41.43:345][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.06.25-05.41.43:345][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.06.25-05.41.43:345][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.06.25-05.41.43:345][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.06.25-05.41.43:345][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.06.25-05.41.43:345][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.06.25-05.41.43:345][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.06.25-05.41.43:351][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.06.25-05.41.43:351][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.06.25-05.41.43:351][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.06.25-05.41.43:351][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.06.25-05.41.43:351][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.06.25-05.41.43:351][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.06.25-05.41.43:351][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.06.25-05.41.43:351][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.25-05.41.43:352][  0]LogShaderCompilers: Display: Compiling shader autogen file: H:/Learning/Tests/Arcanoid/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.06.25-05.41.43:352][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.06.25-05.41.43:352][  0]LogShaderCompilers: Display: Compiling shader autogen file: H:/Learning/Tests/Arcanoid/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.06.25-05.41.43:352][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.06.25-05.41.43:357][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file H:/Learning/Tests/Arcanoid/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.25-05.41.43:357][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.06.25-05.41.43:357][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file H:/Learning/Tests/Arcanoid/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.25-05.41.43:357][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.06.25-05.41.43:381][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1096 MiB)
+[2022.06.25-05.41.43:382][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.25-05.41.43:382][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.06.25-05.41.43:392][  0]LogDerivedDataCache: Speed tests for C:/Users/serge/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.06.25-05.41.43:392][  0]LogDerivedDataCache: Display: Performance to C:/Users/serge/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=756.03MBs, RandomWriteSpeed=104.67MBs. Assigned SpeedClass 'Local'
+[2022.06.25-05.41.43:394][  0]LogDerivedDataCache: Using Local data cache path C:/Users/serge/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.25-05.41.43:395][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.25-05.41.43:395][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.06.25-05.41.43:404][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.06.25-05.41.43:404][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.06.25-05.41.43:405][  0]LogShaderCompilers: Guid format shader working directory is 20 characters bigger than the processId version (H:/Learning/Tests/Arcanoid/Intermediate/Shaders/WorkingDirectory/6016/).
+[2022.06.25-05.41.43:405][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/serge/AppData/Local/Temp/UnrealShaderWorkingDir/B6CAD0974440C415C8FD968E86EF819C/'.
+[2022.06.25-05.41.43:405][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.06.25-05.41.43:405][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2022.06.25-05.41.45:364][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.25-05.41.45:364][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.25-05.41.45:418][  0]LogAssetRegistry: FAssetRegistry took 0.0184 seconds to start up
+[2022.06.25-05.41.45:426][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.06.25-05.41.45:741][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.06.25-05.41.45:742][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.06.25-05.41.46:084][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.06.25-05.41.46:084][  0]LogDeviceProfileManager: Active device profile: [00000613D6D2F880][00000613D5A85000 50] WindowsEditor
+[2022.06.25-05.41.46:084][  0]LogDeviceProfileManager: Profiles: [00000613D6D2FA40][00000613D5A82800 50] Windows, [00000613D6D2F880][00000613D5A85000 50] WindowsEditor, [00000613D6D2C400][00000613D5A87800 50] WindowsServer, [00000613D6D2C240][00000613CCBA7800 50] WindowsClient, [00000613D6D2D740][00000613D5A80000 50] IOS, [00000613D6D2F500][00000613D5A8A000 50] iPadAir2, [00000613D5AF0380][00000613D5A92800 50] IPadPro, [00000613D5AF0700][00000613D5A95000 50] iPadAir3, [00000613D5AF24C0][00000613D5A97800 50] iPadAir4, [00000613D5AF1340][00000613D5A8C800 50] iPadMini4, [00000613D5AF1C00][00000613BF257800 50] iPadMini5, [00000613D5AF0000][00000613D5A9A000 50] iPadMini6, [00000613D5AF7540][00000613D5B32800 50] iPhone6S, [00000613D5AF78C0][00000613D5B30000 50] iPhone7, [00000613D5AF7C40][00000613D5B35000 50] iPodTouch7, [00000613D5AF7A80][00000613D5A90000 50] iPhone6SPlus, [00000613D5AF6040][00000613D5B3A000 50] iPhone7Plus, [00000613D5AF71C0][00000613D5B3C800 50] iPhoneSE, [00000613D5AF7380][00000613D5AE2800 50] iPhone8, [00000613D5AF4B40][00000613D5AE0000 50] iPhone8Plus, [00000613D5AF5E80][00000613D5AEA000 50] iPhoneX, [00000613D5AF2840][00000613D5B37800 50] iPhoneXS, [00000613D5AF01C0][00000613CCBA0000 50] iPhoneXSMax, [00000613D5AF3D40][00000613D5AE7800 50] iPhoneXR, [00000613D5AF5940][00000613D5AC2800 50] iPhone11, [00000613D5AF3480][00000613D5AC0000 50] iPhone11Pro, [00000613D5AF0E00][00000613D5ACA000 50] iPhone11ProMax, [00000613D5AF2F40][00000613D5AE5000 50] iPhoneSE2, [00000613D5AF6C80][00000613D5AC5000 50] iPhone12Mini, [00000613D5AF3800][00000613D5AC7800 50] iPhone12, [00000613D5AF0A80][00000613D5B02800 50] iPhone12Pro, [00000613D5AF0C40][00000613D5B00000 50] iPhone12ProMax, [00000613D5AF55C0][00000613D5B0A000 50] iPhone13Mini, [00000613D5AF5CC0][00000613D5ACC800 50] iPhone13, [00000613D5AF3100][00000613D5A9C800 50] iPhone13Pro, [00000613D5AF1DC0][00000613D5B07800 50] iPhone13ProMax, [00000613D5AF5080][00000613D5B12800 50] iPadPro105, [00000613D5AF2140][00000613D5B10000 50] iPadPro129, [00000613D5AF4D00][00000613D5B1A000 50] iPadPro97, [00000613D5AF1500][00000613D5B05000 50] iPadPro2_129, [00000613D5AF6580][00000613D5B15000 50] iPad5, [00000613D5AF08C0][00000613D5B17800 50] iPad6, [00000613D5AF7700][00000613D5B42800 50] iPad7, [00000613D5AF0FC0][00000613D5B40000 50] iPad8, [00000613D5AF5240][00000613D5B4A000 50] iPad9, [00000613D5AF1F80][00000613D5B1C800 50] iPadPro11, [00000613D5AF39C0][00000613D5AEC800 50] iPadPro2_11, [00000613D5AF4980][00000613D5B47800 50] iPadPro3_11, [00000613D5AF6E40][00000613D5B52800 50] iPadPro3_129, [00000613D5AF16C0][00000613D5B50000 50] iPadPro4_129, [00000613D5AF6AC0][00000613D5B5A000 50] iPadPro5_129, [00000613D5AF7000][00000613D5B45000 50] AppleTV, [00000613D5AF2BC0][00000613D5B55000 50] AppleTV4K, [00000613D5AF3B80][00000613D5B57800 50] TVOS, [00000613D5AF9680][00000613D5B62800 50] Mac, [00000613D5AF9A00][00000613D5B65000 50] MacEditor, [00000613D5AF9BC0][00000613D5B67800 50] MacClient, [00000613D5AF2300][00000613D5B5C800 50] MacServer, [00000613D5AF9D80][00000613D5B75000 50] Linux, [00000613D5AFA100][00000613D5B70000 50] LinuxEditor, [00000613D5AF63C0][00000613D5B72800 50] LinuxArm64Editor, [00000613D5AF8A40][00000613D5B6C800 50] LinuxArm64, [00000613D5AF7E00][00000613D5B7C800 50] LinuxClient, [00000613D5AF32C0][00000613D5B60000 50] LinuxArm64Client, [00000613D5AF5780][00000613D5B6A000 50] LinuxServer, [00000613D5AF7FC0][00000613D5B7A000 50] LinuxArm64Server, [00000613D5AF40C0][00000613D5B82800 50] Android, [00000613D5AF47C0][00000613D5B80000 50] Android_Preview_OpenGL, [00000613D5AF9140][00000613D5B8A000 50] Android_Preview_Vulkan, [00000613D5AF2680][00000613D5B77800 50] Android_Low, [00000613D5AF3640][00000613D5B4C800 50] Android_Mid, [00000613D5AF94C0][00000613D5B87800 50] Android_High, [00000613D5AF8DC0][00000613D5B92800 50] Android_Default, [00000613D5AFAB80][00000613D5B90000 50] Android_Adreno4xx, [00000613D5AF9300][00000613D5B9A000 50] Android_Adreno5xx_Low, [00000613D5AF5400][00000613D5B85000 50] Android_Adreno5xx, [00000613D5AF2A00][00000613D5B95000 50] Android_Adreno6xx, [00000613D5AF1A40][00000613D5B97800 50] Android_Adreno6xx_Vulkan, [00000613D5AF4EC0][00000613D5BA2800 50] Android_Adreno7xx, [00000613D5AF8180][00000613D5BA0000 50] Android_Adreno7xx_Vulkan, [00000613D5AF6200][00000613D5BAA000 50] Android_Mali_T6xx, [00000613D5AF8F80][00000613D5B9C800 50] Android_Mali_T7xx, [00000613D5AF9F40][00000613D5B0C800 50] Android_Mali_T8xx, [00000613D5AF1880][00000613D5BA7800 50] Android_Mali_G71, [00000613D5AF8C00][00000613D5BB2800 50] Android_Mali_G72, [00000613D5AFA640][00000613D5BB0000 50] Android_Mali_G72_Vulkan, [00000613D5AF9840][00000613D5BBA000 50] Android_Mali_G76, [00000613D5AFB440][00000613D5BA5000 50] Android_Mali_G76_Vulkan, [00000613D5AFA9C0][00000613D5BB5000 50] Android_Mali_G77, [00000613D5AF1180][00000613D5BB7800 50] Android_Mali_G77_Vulkan, [00000613D5AF5B00][00000613D5BC2800 50] Android_Mali_G78, [00000613D5AFB600][00000613D5BC0000 50] Android_Mali_G78_Vulkan, [00000613D5AF4280][00000613D5BCA000 50] Android_Mali_G710, [00000613D5AFB980][00000613D5BBC800 50] Android_Mali_G710_Vulkan, [00000613D5AF2D80][00000613D5B8C800 50] Android_Xclipse_920, [00000613D5AFA480][00000613D5BC7800 50] Android_Xclipse_920_Vulkan, [00000613D5AFC400][00000613D5BD2800 50] Android_Vulkan_SM5, [00000613D5AFAF00][00000613D5BD0000 50] Android_PowerVR_G6xxx, [00000613D5AF4600][00000613D5BDA000 50] Android_PowerVR_GT7xxx, [00000613D5AFBD00][00000613D5BC5000 50] Android_PowerVR_GE8xxx, [00000613D5AFC5C0][00000613D5BD5000 50] Android_PowerVR_GM9xxx, [00000613D5AFB0C0][00000613D5BD7800 50] Android_PowerVR_GM9xxx_Vulkan, [00000613D5AFC940][00000613D5BE2800 50] Android_TegraK1, [00000613D5AF8340][00000613D5BE0000 50] Android_Unknown_Vulkan, [00000613D5AFD3C0][00000613D5BEA000 50] Oculus_Quest, [00000613D5AFCB00][00000613D5BDC800 50] Oculus_Quest2, [00000613D5AFBEC0][00000613D5BAC800 50] HoloLens, 
+[2022.06.25-05.41.46:084][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.06.25-05.41.46:113][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.06.25-05.41.46:399][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.25-05.41.46:399][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.25-05.41.46:399][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.25-05.41.46:399][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.25-05.41.46:399][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.25-05.41.46:421][  0]LogNetVersion: Arcanoid 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1761142895)
+[2022.06.25-05.41.46:608][  0]LogSlate: Border
+[2022.06.25-05.41.46:608][  0]LogSlate: BreadcrumbButton
+[2022.06.25-05.41.46:608][  0]LogSlate: Default
+[2022.06.25-05.41.46:608][  0]LogSlate: Icons.Save
+[2022.06.25-05.41.46:608][  0]LogSlate: Icons.Toolbar.Settings
+[2022.06.25-05.41.46:608][  0]LogSlate: ListView
+[2022.06.25-05.41.46:608][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.06.25-05.41.46:608][  0]LogSlate: SoftwareCursor_Grab
+[2022.06.25-05.41.46:608][  0]LogSlate: TableView.DarkRow
+[2022.06.25-05.41.46:608][  0]LogSlate: TableView.Row
+[2022.06.25-05.41.46:608][  0]LogSlate: TreeView
+[2022.06.25-05.41.46:865][  0]SourceControl: Source control is disabled
+[2022.06.25-05.41.46:908][  0]SourceControl: Source control is disabled
+[2022.06.25-05.41.46:908][  0]SourceControl: Source control is disabled
+[2022.06.25-05.41.47:101][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.06.25-05.41.47:101][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.06.25-05.41.47:101][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.25-05.41.47:492][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 9FDD26E54079BD98BEC5CB861F84D7EA | Instance: 80EDAC4D4144B3D9D4AEA594863DB2DA (SENIORPC-6016).
+[2022.06.25-05.41.47:552][  0]LogPython: Using Python 3.9.7
+[2022.06.25-05.41.49:127][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.25-05.41.49:137][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.25-05.41.50:908][  0]LogUProjectInfo: Found projects:
+[2022.06.25-05.41.51:271][  0]LogOpenImageDenoise: OIDN starting up
+[2022.06.25-05.41.51:449][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.25-05.41.51:477][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.25-05.41.51:477][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.25-05.41.51:944][  0]LogCollectionManager: Loaded 0 collections in 0.003269 seconds
+[2022.06.25-05.41.52:011][  0]LogFileCache: Scanning file cache for directory 'H:/Learning/Tests/Arcanoid/Saved/Collections/' took 0.00s
+[2022.06.25-05.41.52:011][  0]LogFileCache: Scanning file cache for directory 'H:/Learning/Tests/Arcanoid/Content/Developers/sergio/Collections/' took 0.00s
+[2022.06.25-05.41.52:011][  0]LogFileCache: Scanning file cache for directory 'H:/Learning/Tests/Arcanoid/Content/Collections/' took 0.00s
+[2022.06.25-05.41.52:535][  0]LogEngine: Initializing Engine...
+[2022.06.25-05.41.52:563][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.06.25-05.41.52:565][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.06.25-05.41.53:037][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.25-05.41.53:038][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.25-05.41.53:056][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.25-05.41.53:121][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.25-05.41.53:122][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.25-05.41.53:169][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.06.25-05.41.53:170][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.06.25-05.41.53:170][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.06.25-05.41.53:171][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.25-05.41.53:171][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.25-05.41.53:171][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.25-05.41.53:171][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.25-05.41.53:171][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.25-05.41.53:171][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.25-05.41.53:171][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.25-05.41.53:171][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.25-05.41.53:171][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.25-05.41.53:171][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.25-05.41.53:172][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.25-05.41.53:172][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.25-05.41.53:172][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.25-05.41.53:180][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.25-05.41.53:231][  0]LogAudioMixer: Display: Using Audio Hardware Device Динамики (G941_White_Shark)
+[2022.06.25-05.41.53:232][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.25-05.41.53:235][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.25-05.41.53:235][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.25-05.41.53:236][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.06.25-05.41.53:236][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.06.25-05.41.53:238][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.06.25-05.41.53:238][  0]LogInit: FAudioDevice initialized.
+[2022.06.25-05.41.53:239][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.06.25-05.41.53:239][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.25-05.41.53:239][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.25-05.41.53:239][  0]LogInit: Texture streaming: Enabled
+[2022.06.25-05.41.53:296][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.2-20280985+++UE5+Release-5.0
+[2022.06.25-05.41.53:312][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.25-05.41.53:348][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.06.25-05.41.53:360][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.06.25-05.41.53:360][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.06.25-05.41.55:314][  0]LogLiveCoding: Display: First instance in process group "UE_Arcanoid_0xbd385046", spawning console
+[2022.06.25-05.41.55:315][  0]LogLiveCoding: Display: Waiting for server
+[2022.06.25-05.41.55:315][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.06.25-05.41.55:354][  0]LogInit: Transaction tracking system initialized
+[2022.06.25-05.41.55:484][  0]BlueprintLog: New page: Editor Load
+[2022.06.25-05.41.55:824][  0]LocalizationService: Localization service is disabled
+[2022.06.25-05.41.55:905][  0]TimingProfiler: Initialize
+[2022.06.25-05.41.55:905][  0]TimingProfiler: OnSessionChanged
+[2022.06.25-05.41.55:905][  0]LoadingProfiler: Initialize
+[2022.06.25-05.41.55:905][  0]LoadingProfiler: OnSessionChanged
+[2022.06.25-05.41.55:906][  0]NetworkingProfiler: Initialize
+[2022.06.25-05.41.55:906][  0]NetworkingProfiler: OnSessionChanged
+[2022.06.25-05.41.55:906][  0]MemoryProfiler: Initialize
+[2022.06.25-05.41.55:906][  0]MemoryProfiler: OnSessionChanged
+[2022.06.25-05.41.56:726][  0]LogFileCache: Scanning file cache for directory 'H:/Learning/Tests/Arcanoid/Content/' took 0.00s
+[2022.06.25-05.41.56:726][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.06.25-05.41.57:109][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.25-05.41.57:112][  0]LogUnrealEdMisc: Loading editor; pre map load, took 16.867
+[2022.06.25-05.41.57:112][  0]Cmd: MAP LOAD FILE="H:/Learning/Tests/Arcanoid/Content/Arcanoid/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.25-05.41.57:112][  0]LightingResults: New page: Lighting Build
+[2022.06.25-05.41.57:124][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.25-05.41.57:124][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-05.41.57:124][  0]MapCheck: New page: Map Check
+[2022.06.25-05.41.57:124][  0]LightingResults: New page: Lighting Build
+[2022.06.25-05.41.57:132][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.25-05.41.57:136][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.06.25-05.41.57:281][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.06.25-05.41.57:282][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.25-05.41.57:282][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.25-05.41.57:282][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.06.25-05.41.57:288][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.25-05.41.57:317][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.06.25-05.41.57:317][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.25-05.41.57:317][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,12ms to complete.
+[2022.06.25-05.41.57:318][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.206
+[2022.06.25-05.41.57:338][  0]LogUnrealEdMisc: Total Editor Startup Time, took 17.093
+[2022.06.25-05.41.57:338][  0]LogShaderCompilers: Display: ================================================
+[2022.06.25-05.41.57:338][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.25-05.41.57:338][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.06.25-05.41.57:338][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.06.25-05.41.57:338][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.06.25-05.41.57:338][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.06.25-05.41.57:338][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.06.25-05.41.57:338][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.06.25-05.41.57:338][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.06.25-05.41.57:338][  0]LogShaderCompilers: Display: ================================================
+[2022.06.25-05.41.57:473][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-05.41.57:482][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-05.41.57:489][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-05.41.57:498][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-05.41.57:532][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.06.25-05.41.57:532][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-05.41.57:533][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.06.25-05.41.57:533][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-05.41.57:533][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.06.25-05.41.57:533][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-05.41.57:534][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.06.25-05.41.57:534][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-05.41.57:535][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.06.25-05.41.57:535][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-05.41.57:536][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.06.25-05.41.57:536][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-05.41.57:536][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.06.25-05.41.57:536][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-05.41.57:537][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.06.25-05.41.57:537][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-05.41.57:537][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.06.25-05.41.57:538][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-05.41.57:538][  0]LogPakFile: Display: Mounted Pak file 'C:/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.06.25-05.41.57:538][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.06.25-05.41.57:857][  0]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.25-05.41.57:862][  0]LogSlate: Took 0.000318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.25-05.41.57:864][  0]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.25-05.41.57:867][  0]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.06.25-05.41.57:868][  0]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.25-05.41.57:895][  0]LogViewport: Scene viewport resized to 1526x580, mode Windowed.
+[2022.06.25-05.41.59:257][  0]LogStall: Startup...
+[2022.06.25-05.41.59:259][  0]LogStall: Startup complete.
+[2022.06.25-05.41.59:291][  0]LogLoad: (Engine Initialization) Total time: 19.05 seconds
+[2022.06.25-05.41.59:291][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.25-05.41.59:386][  0]LogAssetRegistry: Asset discovery search completed in 13.9713 seconds
+[2022.06.25-05.41.59:400][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.06.25-05.41.59:434][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.25-05.42.00:213][  2]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.25-05.42.01:643][ 81]LogRendererCore: Warning: Query 'Unaccounted' not ready.
+[2022.06.25-05.43.44:190][493]LogDerivedDataCache: C:/Users/serge/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.459 and deleted 0 file(s) with total size 0 MiB.
+[2022.06.25-05.48.56:413][422]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Динамики (High Definition Audio Device), InstanceID=1
+[2022.06.25-05.48.56:413][422]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9964
+[2022.06.25-05.48.56:739][422]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{725b5197-5551-4186-8abe-e77d899692da}, Name=Динамики (High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=52.36
+[2022.06.25-05.48.56:739][422]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.06.25-05.48.56:753][423]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.06.25-06.25.05:901][885]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2022.06.25-06.25.05:901][885]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2022.06.25-06.25.11:047][351]Launching UnrealBuildTool... [C:/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="C:/Epic Games/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2022.06.25-06.25.11:197][351]Launching UnrealBuildTool... [C:/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="C:/Epic Games/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2022.06.25-06.25.11:300][351]LogDesktopPlatform: Warning: Unable to read target info for engine
+[2022.06.25-06.25.11:300][351]LogTurnkeySupport: Display: Adding device menu item for SENIORPC
+[2022.06.25-06.25.11:301][351]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="H:/Learning/Tests/Arcanoid/Arcanoid.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="H:/Learning/Tests/Arcanoid/Intermediate/TurnkeyReport_1.log" -log="H:/Learning/Tests/Arcanoid/Intermediate/TurnkeyLog_1.log" -project="H:/Learning/Tests/Arcanoid/Arcanoid.uproject"  -Device=Win64@SENIORPC'
+[2022.06.25-06.25.11:301][351]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="H:/Learning/Tests/Arcanoid/Arcanoid.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="H:/Learning/Tests/Arcanoid/Intermediate/TurnkeyReport_1.log" -log="H:/Learning/Tests/Arcanoid/Intermediate/TurnkeyLog_1.log" -project="H:/Learning/Tests/Arcanoid/Arcanoid.uproject"  -Device=Win64@SENIORPC" -nocompile ]
+[2022.06.25-06.25.11:435][362]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.06.25-06.25.19:668][341]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.25-06.25.19:668][341]PIE: New page: SIE session: Minimal_Default (26 июн. 2022 г., 02:25:19)
+[2022.06.25-06.25.19:672][341]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.06.25-06.25.19:672][341]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.06.25-06.25.19:672][341]LogPlayLevel: Creating play world package: /Game/Arcanoid/Maps/UEDPIE_0_Minimal_Default
+[2022.06.25-06.25.19:681][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008731s)
+[2022.06.25-06.25.19:681][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Arcanoid/Maps/Minimal_Default.Minimal_Default to /Game/Arcanoid/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.008828s)
+[2022.06.25-06.25.19:681][341]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.25-06.25.19:681][341]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.25-06.25.19:682][341]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.06.25-06.25.19:682][341]LogPlayLevel: PIE: World Init took: (0.001070s)
+[2022.06.25-06.25.19:695][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.06.25-06.25.19:696][341]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.06.25-06.25.19:696][341]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.25-06.25.19:696][341]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.25-06.25.19:696][341]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.25-06.25.19:696][341]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.25-06.25.19:696][341]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.25-06.25.19:696][341]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.25-06.25.19:696][341]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.25-06.25.19:696][341]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.25-06.25.19:697][341]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.25-06.25.19:697][341]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.25-06.25.19:697][341]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.25-06.25.19:699][341]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.25-06.25.19:722][341]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.06.25-06.25.19:723][341]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.25-06.25.19:723][341]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.25-06.25.19:723][341]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.25-06.25.19:724][341]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.06.25-06.25.19:724][341]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.06.25-06.25.19:726][341]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.06.25-06.25.19:726][341]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.06.25-06.25.19:726][341]LogInit: FAudioDevice initialized.
+[2022.06.25-06.25.19:726][341]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default'.
+[2022.06.25-06.25.19:741][341]LogLoad: Game class is 'GameModeBase'
+[2022.06.25-06.25.19:747][341]LogWorld: Bringing World /Game/Arcanoid/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.06.25-16.25.19
+[2022.06.25-06.25.19:747][341]LogWorld: Bringing up level for play took: 0.005928
+[2022.06.25-06.25.19:750][341]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.06.25-06.25.19:750][341]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.06.25-06.25.19:778][341]PIE: Server logged in
+[2022.06.25-06.25.19:779][341]PIE: Play in editor total start time 0,111 seconds.
+[2022.06.25-06.25.19:795][341]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.19:842][342]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:041][343]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:059][344]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:070][345]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:116][346]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:142][347]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:160][348]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:169][349]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:178][350]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:187][351]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:195][352]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:204][353]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:213][354]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:221][355]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:230][356]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:238][357]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:247][358]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:255][359]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:264][360]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:273][361]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:281][362]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:290][363]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:298][364]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:308][365]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:317][366]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:325][367]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:333][368]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:342][369]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:350][370]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:358][371]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:367][372]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:376][373]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:385][374]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:394][375]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:403][376]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:412][377]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:419][378]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:429][379]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:437][380]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:445][381]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:454][382]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:462][383]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:470][384]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:479][385]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:487][386]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:497][387]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:505][388]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:513][389]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:522][390]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:531][391]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:539][392]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:548][393]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:557][394]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:565][395]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:574][396]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:583][397]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:593][398]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:626][399]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:635][400]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:668][401]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:677][402]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:710][403]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:718][404]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:751][405]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:759][406]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:793][407]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:801][408]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:834][409]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:843][410]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:875][411]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:884][412]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:917][413]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:926][414]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:960][415]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:969][416]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:977][417]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:985][418]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.20:994][419]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:004][420]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:012][421]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:021][422]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:030][423]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:039][424]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:047][425]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:056][426]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:064][427]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:073][428]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:081][429]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:090][430]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:098][431]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:130][432]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:140][433]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:148][434]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:156][435]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:165][436]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:173][437]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:183][438]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:194][439]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:207][440]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:216][441]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:224][442]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:237][443]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:250][444]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:261][445]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:273][446]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:284][447]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:296][448]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:308][449]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:319][450]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:331][451]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:342][452]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:353][453]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:366][454]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:378][455]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:390][456]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:401][457]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:412][458]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:424][459]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:436][460]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:448][461]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:460][462]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:473][463]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:485][464]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:498][465]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:512][466]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:526][467]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:539][468]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:551][469]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:562][470]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:575][471]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:590][472]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:601][473]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:617][474]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:631][475]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:643][476]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:774][491]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.21:826][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-06.25.21:826][491]LogWorld: BeginTearingDown for /Game/Arcanoid/Maps/UEDPIE_0_Minimal_Default
+[2022.06.25-06.25.21:827][491]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.06.25-06.25.21:827][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-06.25.21:843][491]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.25-06.25.21:845][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-06.25.21:852][491]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.25-06.25.21:852][491]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.06.25-06.25.21:854][491]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.06.25-06.25.21:857][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-06.25.21:861][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.06.25-06.25.21:887][492]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.06.25-06.25.23:120][605]LogDebuggerCommands: Repeating last play command: Simulate
+[2022.06.25-06.25.23:126][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.25-06.25.23:126][605]PIE: New page: SIE session: Minimal_Default (26 июн. 2022 г., 02:25:23)
+[2022.06.25-06.25.23:126][605]LogPlayLevel: Creating play world package: /Game/Arcanoid/Maps/UEDPIE_0_Minimal_Default
+[2022.06.25-06.25.23:134][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007490s)
+[2022.06.25-06.25.23:134][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Arcanoid/Maps/Minimal_Default.Minimal_Default to /Game/Arcanoid/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.007578s)
+[2022.06.25-06.25.23:134][605]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.25-06.25.23:134][605]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.25-06.25.23:134][605]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.06.25-06.25.23:135][605]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2022.06.25-06.25.23:143][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.06.25-06.25.23:144][605]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.06.25-06.25.23:144][605]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.25-06.25.23:144][605]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.25-06.25.23:144][605]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.25-06.25.23:144][605]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.25-06.25.23:144][605]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.25-06.25.23:144][605]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.25-06.25.23:144][605]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.25-06.25.23:144][605]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.25-06.25.23:145][605]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.25-06.25.23:145][605]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.25-06.25.23:145][605]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.25-06.25.23:147][605]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.25-06.25.23:169][605]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.06.25-06.25.23:170][605]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.25-06.25.23:170][605]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.25-06.25.23:170][605]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.25-06.25.23:170][605]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.06.25-06.25.23:170][605]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.06.25-06.25.23:172][605]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.06.25-06.25.23:172][605]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.06.25-06.25.23:172][605]LogInit: FAudioDevice initialized.
+[2022.06.25-06.25.23:172][605]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default'.
+[2022.06.25-06.25.23:189][605]LogLoad: Game class is 'GameModeBase'
+[2022.06.25-06.25.23:196][605]LogWorld: Bringing World /Game/Arcanoid/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.06.25-16.25.23
+[2022.06.25-06.25.23:196][605]LogWorld: Bringing up level for play took: 0.006471
+[2022.06.25-06.25.23:198][605]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2022.06.25-06.25.23:198][605]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.06.25-06.25.23:199][605]PIE: Server logged in
+[2022.06.25-06.25.23:200][605]PIE: Play in editor total start time 0,074 seconds.
+[2022.06.25-06.25.23:214][605]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:244][606]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:365][607]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:394][608]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:405][609]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:418][610]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:427][611]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:436][612]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:444][613]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:453][614]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:461][615]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:469][616]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:478][617]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:486][618]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:495][619]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:504][620]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:513][621]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:522][622]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:531][623]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:541][624]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:549][625]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:558][626]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:566][627]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:575][628]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:585][629]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:594][630]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:602][631]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:611][632]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:620][633]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:629][634]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:637][635]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:645][636]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:653][637]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:662][638]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:670][639]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:679][640]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:689][641]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:697][642]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:705][643]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:714][644]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:722][645]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:730][646]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:740][647]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:749][648]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:758][649]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:767][650]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:775][651]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:784][652]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:792][653]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:801][654]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:810][655]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:819][656]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:827][657]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:836][658]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:844][659]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:853][660]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:861][661]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:869][662]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:878][663]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:886][664]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:894][665]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:903][666]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:911][667]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:920][668]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:928][669]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:938][670]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:947][671]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:955][672]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:963][673]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:972][674]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:980][675]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:989][676]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.23:997][677]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:005][678]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:014][679]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:022][680]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:031][681]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:039][682]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:048][683]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:056][684]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:064][685]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:073][686]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:083][687]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:091][688]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:101][689]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:109][690]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:117][691]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:126][692]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:136][693]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:144][694]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:153][695]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:161][696]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:170][697]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:179][698]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:187][699]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:196][700]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:204][701]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:213][702]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:222][703]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:230][704]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:238][705]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:247][706]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:255][707]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:264][708]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:274][709]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:283][710]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:291][711]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:300][712]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:308][713]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:316][714]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:325][715]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:333][716]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:341][717]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:350][718]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:359][719]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:367][720]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:377][721]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:386][722]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:395][723]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:404][724]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:415][725]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:423][726]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:434][727]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:442][728]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:451][729]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:459][730]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:467][731]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:476][732]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:484][733]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:492][734]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:501][735]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:509][736]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:517][737]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:526][738]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:535][739]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:544][740]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:552][741]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:562][742]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:572][743]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:580][744]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:589][745]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:598][746]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:605][747]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:613][748]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:622][749]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:630][750]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:639][751]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:647][752]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:656][753]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:664][754]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:672][755]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:681][756]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:689][757]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:697][758]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:706][759]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:714][760]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:723][761]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:731][762]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:739][763]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:748][764]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:756][765]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:764][766]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:773][767]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:781][768]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:789][769]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:798][770]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:806][771]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:815][772]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:824][773]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:833][774]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:841][775]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:850][776]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:859][777]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:867][778]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:876][779]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:884][780]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:892][781]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:900][782]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:909][783]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:917][784]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:926][785]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:934][786]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:943][787]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:952][788]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:961][789]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:970][790]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:979][791]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:988][792]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.24:996][793]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:005][794]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:013][795]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:022][796]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:030][797]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:039][798]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:047][799]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:055][800]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:064][801]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:073][802]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:081][803]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:090][804]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:098][805]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:107][806]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:115][807]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:123][808]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:132][809]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:140][810]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:148][811]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:157][812]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:165][813]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:174][814]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:182][815]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:190][816]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:199][817]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:208][818]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:217][819]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:226][820]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:236][821]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:245][822]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:253][823]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:262][824]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:270][825]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:279][826]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:287][827]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:296][828]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:304][829]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:312][830]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:321][831]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:329][832]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:337][833]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:346][834]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:354][835]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:363][836]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:371][837]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:380][838]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:388][839]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:396][840]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:405][841]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:413][842]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:422][843]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:430][844]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:439][845]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:448][846]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:456][847]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:467][848]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:478][849]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:486][850]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:498][851]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:506][852]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:515][853]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:527][854]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:566][855]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:575][856]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:609][857]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:618][858]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:652][859]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:661][860]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:694][861]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:703][862]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:736][863]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:744][864]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:752][865]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:761][866]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:769][867]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:779][868]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:788][869]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:796][870]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:805][871]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:814][872]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:823][873]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:832][874]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:841][875]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:855][876]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:888][877]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:898][878]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:907][879]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:915][880]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:926][881]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:937][882]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:950][883]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:961][884]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:972][885]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:984][886]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.25:997][887]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:009][888]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:020][889]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:033][890]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:044][891]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:056][892]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:067][893]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:079][894]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:091][895]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:104][896]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:116][897]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:127][898]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:139][899]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:152][900]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:164][901]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:176][902]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:188][903]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:200][904]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:212][905]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:223][906]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:235][907]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:249][908]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:261][909]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:275][910]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:286][911]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:297][912]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:306][913]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:318][914]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:330][915]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:343][916]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:354][917]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:370][918]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:380][919]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:389][920]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:399][921]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:410][922]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:423][923]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:436][924]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:447][925]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:458][926]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:470][927]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:483][928]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:494][929]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:506][930]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:517][931]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:531][932]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:543][933]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:554][934]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:568][935]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:580][936]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:591][937]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:605][938]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:616][939]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:632][940]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:644][941]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:654][942]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:667][943]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:678][944]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:692][945]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:705][946]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:719][947]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:730][948]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:742][949]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:754][950]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:766][951]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:777][952]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:790][953]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:800][954]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:813][955]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:824][956]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:836][957]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:847][958]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:860][959]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:873][960]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:887][961]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:900][962]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:912][963]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:925][964]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:938][965]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:950][966]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:963][967]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:977][968]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.26:988][969]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.27:000][970]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.27:013][971]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.27:026][972]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.27:037][973]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.27:050][974]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.27:140][984]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.27:148][985]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.27:173][986]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.27:185][987]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.27:197][988]LogBlueprintUserMessages: [NewBlueprint_C_1] Hello
+[2022.06.25-06.25.27:210][989]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Arcanoid/Blueprints/BP_Carriage.BP_Carriage
+[2022.06.25-06.25.27:211][989]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
